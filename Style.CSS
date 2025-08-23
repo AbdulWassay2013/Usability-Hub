@@ -74,6 +74,14 @@ ul {
   justify-content: space-between;
 }
 
+.proto{
+  padding: 16px 0;
+}
+
+.first{
+  padding: 17px 0;
+}
+
 .company-logo img {
   width: 200px;
 }
@@ -110,6 +118,7 @@ nav-links {
   color: var(--primary-text-color) !important;
   padding: 12px 24px;
   transition: 0.2s ease-out;
+  height: 50px;
 }
 
 .secondary-button:hover {
